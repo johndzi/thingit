@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
+  "name": "thingit",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "Fun things with Koa, Node, Angular, MongoDB, and Git",
+  "repository": "https://github.com/johndzi/thingit.git",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
